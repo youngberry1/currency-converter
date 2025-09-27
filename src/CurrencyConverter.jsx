@@ -36,7 +36,7 @@ export function CurrencyConverter() {
          : '';
 
    return (
-      <div className='min-h-screen flex items-center justify-center bg-gray-900 text-white p-4'>
+      <div className='min-h-[100dvh] flex items-center justify-center bg-gray-900 text-white p-4'>
          <div className='w-full max-w-md bg-gray-800 rounded-xl p-6 shadow-lg'>
             <h1 className='text-2xl font-bold mb-6 text-center'>
                💱 Currency Converter
